@@ -1,4 +1,4 @@
-## Interface: 11502
+## Interface: 11503
 ## Title: ReColorChat
 ## Notes: Recolors the chat since the UI changes from patch 1.14.4
 ## Author: Marris
