@@ -1,4 +1,4 @@
-## Interface: 11505, 30403, 40400
+## Interface: 11507, 30403, 40400
 ## Title: ReColorChat
 ## Notes: Recolors the chat since the UI changes from patch 1.14.4
 ## Author: Marris
