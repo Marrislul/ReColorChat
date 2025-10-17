@@ -1,0 +1,7 @@
+## Interface: 30403
+## Title: ReColorChat
+## Notes: Recolors the chat since the UI changes from patch 1.14.4
+## Author: Marris
+## Version: @project-version@
+
+ReColorChat-classic.lua
